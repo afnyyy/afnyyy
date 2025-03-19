@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @afnyyy
-- 👀 I’m interested in Business Analys
+- 👀 I’m interested in Business Analyst and Quality Assurance
 - 🌱 I’m currently learning Website Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
