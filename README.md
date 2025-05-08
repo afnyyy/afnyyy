@@ -1,5 +1,6 @@
-                                                                                      # 👋 Hi, I’m @afnyyy
-                                                                                                ---
+# 👋 Hi, I’m @afnyyy
+
+---
 
 ## 👀 Interests
 - Business Analyst
