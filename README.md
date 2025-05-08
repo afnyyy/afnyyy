@@ -11,7 +11,7 @@
 I’m looking to collaborate on exciting projects related to web development and quality assurance.
 
 ## 📫 How to Reach Me
-Feel free to connect with me through my GitHub profile or via email at [your-email@example.com](mailto:your-email@example.com).
+Feel free to connect with me through my GitHub profile or via email at [your-email@example.com](mailto:27afny@gmail.com).
 
 ---
 
