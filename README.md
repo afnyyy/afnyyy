@@ -1,8 +1,11 @@
-# 👋 Hi, I’m @afnyyy
+                                                                                      # 👋 Hi, I’m @afnyyy
+                                                                                                ---
 
 ## 👀 Interests
 - Business Analyst
 - Quality Assurance
+- Web Developer
+- UI/UX Designer
 
 ## 🌱 Currently Learning
 - Website Development
@@ -25,6 +28,9 @@ Feel free to connect with me through my GitHub profile or via email at [your-ema
   - Laravel
   - PHP Native
   - MySQL
+  - Figma
+  - wireframing
+  - UML
 
 - **Roles:**
   - Business Analyst (https://github.com/afnyyy/SIM-LD-Ulul-Albaab)
