@@ -36,8 +36,8 @@ Feel free to connect with me through my GitHub profile or via email at [27afny@g
 - **Roles:**
   - Business Analyst (https://github.com/afnyyy/SIM-LD-Ulul-Albaab)
   - Quality Assurance
-  - Web Developer
-  - UI/UX Designer
+  - Web Developer 
+  - UI/UX Designer (https://medium.com/@27afny)
 
 ---
 
